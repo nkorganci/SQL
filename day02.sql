@@ -1,0 +1,7 @@
+--================       CONSTRAINTS     =========================
+-- NOT NULL
+--UNIQUE
+--PRIMARY KEY
+--FOREIGN KEY
+--CHECK
+--DEFAULT
