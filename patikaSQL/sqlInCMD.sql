@@ -1,3 +1,5 @@
+*** https://www.postgresqltutorial.com/psql-commands/
+
 1- PSQL ile PostgreSQL'e bağlanmak.
 psql -U <kullanıcı_adı>
 2- Kullanıcıya ait şifreyi girdikten sonra varsayılan veritabanı postgres'e bağlanıyor.
